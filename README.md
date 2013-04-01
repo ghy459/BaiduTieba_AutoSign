@@ -7,3 +7,6 @@ To run this program, you should open the file 'config.ini' and fill in the 'user
 
 You can input '-h' for more help. 
 
+@author:ghy459
+
+@blog:http://hack0nair.me
